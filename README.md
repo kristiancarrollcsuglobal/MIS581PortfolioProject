@@ -8,3 +8,5 @@ A new library with the Dataset Limited Data for Masters Analysis was created and
 https://drive.google.com/file/d/19B_P09lIiPiGqgrBiwaMf0AMWo_iHtE_/view?usp=drive_link
 
 The findings and paper has been added to this repository called: MIS581_PortfolioPaper_Carroll_Kristian_331557
+
+Instructions can be found within the attached file within this repository. 
